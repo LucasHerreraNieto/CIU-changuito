@@ -1,0 +1,13 @@
+
+.carrousel-Principal{
+    width: 80%;
+    height: 33em;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #ddd;
+    background: #fff;
+}
+.carrousel{
+    height: 33em;
+    
+}
